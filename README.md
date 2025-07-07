@@ -8,6 +8,7 @@
 ### 🧬 About Me
 
 I'm not just a developer—I’m a digital explorer. Whether it's crafting clever SQL queries, reverse-engineering integers in C++, or imagining AI-powered social platforms, I thrive at the intersection of logic and imagination.
+.I'm practicing competitive programming regularly on [CodeForces](https://codeforces.com/profile/yanayem) 
 
 - 🧠 Self-taught and ever-curious
 - 🛠️ Building tools that think, react, and evolve
@@ -36,7 +37,7 @@ I'm not just a developer—I’m a digital explorer. Whether it's crafting cleve
 
 ### 🌐 Connect with Me
 
-- 📫 Email: `your-email@example.com`
+- 📫 Email: `arafatnayem01@gmail.com`
 - 🧠 GitHub: [@yanayem](https://github.com/yanayem)
 
 ---
