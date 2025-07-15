@@ -12,26 +12,29 @@ I'm not just a developer—I’m a digital explorer. Whether it's crafting cleve
 
 - 🧠 Self-taught and ever-curious
 - 🛠️ Building tools that think, react, and evolve
-- 🌊 Conducting real-world experiments (yes, even with super glue in saltwater!)
-- 🧩 Solving puzzles with Python, C++, and caffeine
+- 🌊 Conducting real-world experiments 
+- 🧩 Solving puzzles with Python, C++.
 
 ---
 
 ### 🧰 Tech Toolbox
 
-| Language | Tools & Tech | Concepts |
-|----------|--------------|----------|
-| 🐍 Python | 🗃️ SQL | 🔄 Algorithms |
-| 💻 C++   | 🧠 AI/ML Ideas | 🔐 Debugging |
-| 📊 Markdown | 🧪 Experiments | 🧱 Database Design |
+| Language     | Tools & Tech   | Concepts       |
+|-------------|-----------------|----------------|
+| 🐍 Python  | 🗃️ SQL | 🔄 Core Algorithm|
+| 💻 C++     | 🧠 AI | 🔐Debugging |
+| 📊 ReactJS | 🧪 Experiments | 🧱 Database Design |
 
 ---
 
-### 🚧 Current Projects
+### 🚧 Future Plan Projects
 
 - 🧠 **NeuroNet** – A futuristic AI network that learns from human interaction
 - 💍 **ShaadiSmart** – An intelligent matchmaking system with real-time compatibility scoring
-- 🧪 **GlueLab** – Testing how super glue reacts in different environments (because why not?)
+- 🗣️ Voice-controlled task managers using Python and speech recognition
+- 🌐 Real-time data dashboards in React powered by database queries
+- 🔐 Authentication workflows tied to user voice inpu
+
 
 ---
 
