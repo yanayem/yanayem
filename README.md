@@ -8,7 +8,7 @@
 ### 🧬 About Me
 
 I'm not just a developer—I’m a digital explorer. Whether it's crafting clever SQL queries, reverse-engineering integers in C++, or imagining AI-powered social platforms, I thrive at the intersection of logic and imagination.
-.I'm practicing competitive programming regularly on [CodeForces](https://codeforces.com/profile/yanayem) 
+.I'm practicing competitive programming regularly on [CodeForces](https://codeforces.com/profile/yanayem) , and here my web-development project [Web-Project](https://app.netlify.com/teams/arafatnayem01/projects)
 
 - 🧠 Self-taught and ever-curious
 - 🛠️ Building tools that think, react, and evolve
