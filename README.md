@@ -43,6 +43,7 @@ I'm not just a developer—I’m a digital explorer. Whether it's crafting cleve
 
 🌱 Smart Soil Monitoring System – A Python-based decision-support tool for coastal farmers in Bangladesh that simulates/collects soil data (EC, pH, moisture, temperature), recommends crops & irrigation schedules, computes soil health index, and tracks salinity trends with visualizations.
 
+🚜 iFarmer – Transforming agriculture in Bangladesh with satellite-based farm monitoring, fertilizer & input optimization, farmer credit scoring, price forecasting, and Bangla voice-enabled AgriGPT powered by LLMs, making smart farming accessible to every farmer.
 
 ---
 
