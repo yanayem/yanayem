@@ -27,13 +27,21 @@ I'm not just a developer—I’m a digital explorer. Whether it's crafting cleve
 
 ---
 
-### 🚧 Future Plan Projects
+🚧 Future Plan Projects
 
-- 🧠 **NeuroNet** – A futuristic AI network that learns from human interaction
-- 💍 **ShaadiSmart** – An intelligent matchmaking system with real-time compatibility scoring
-- 🗣️ Voice-controlled task managers using Python and speech recognition
-- 🌐 Real-time data dashboards in React powered by database queries
-- 🔐 Authentication workflows tied to user voice inpu
+🧠 NeuroNet – A futuristic AI network that learns from human interaction
+
+💍 ShaadiSmart – An intelligent matchmaking system with real-time compatibility scoring
+
+🗣️ Voice-controlled task managers using Python and speech recognition
+
+🌐 Real-time data dashboards in React powered by database queries
+
+🔐 Authentication workflows tied to user voice input
+
+🤖 PikuCore – A lifelong personal AI assistant rooted in Bengali expression and empathy, featuring adaptive persona, voice-first interaction, journaling with emotion analysis, cultural intelligence, and a modular plugin ecosystem.
+
+🌱 Smart Soil Monitoring System – A Python-based decision-support tool for coastal farmers in Bangladesh that simulates/collects soil data (EC, pH, moisture, temperature), recommends crops & irrigation schedules, computes soil health index, and tracks salinity trends with visualizations.
 
 
 ---
