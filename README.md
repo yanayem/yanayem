@@ -66,6 +66,14 @@ Check out my work:
 
 ---
 
+### 📊 Language Usage (from GitHub)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanayem&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
 ### ⚙️ My GitHub Stats
 
 <p align="center">
@@ -76,8 +84,26 @@ Check out my work:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanayem&theme=tokyonight" alt="GitHub streak" />
 </p>
 
+---
+
+### 🟩 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanayem&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yanayem&theme=tokyo-night&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🧠 Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FML-brightgreen?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
 
 ---
@@ -95,10 +121,24 @@ Check out my work:
 
 ---
 
+### 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/yanayem/yanayem/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ### 🌐 Connect with Me
 
 - 📫 **Email:** `arafatnayem01@gmail.com`  
 - 🧠 **GitHub:** [@yanayem](https://github.com/yanayem)
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/yanayem?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/yanayem?label=Stars&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=yanayem&label=Profile+Views&color=blueviolet&style=flat" />
+</p>
 
 ---
 
