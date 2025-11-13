@@ -8,32 +8,61 @@
 ### 🧬 About Me
 
 Hey there! I’m Yeasin.  
-I don’t really like calling myself just a "developer" — I’m more like someone who gets curious about how things work and ends up turning that curiosity into code.
+I started coding out of curiosity — just trying to understand how computers “think.”  
+Now, it’s something I can’t go a day without. I love experimenting with ideas, building random projects, and learning new things that push me a little further.
 
-I started coding out of curiosity, and now I can’t imagine a day without it.  
-Most of my time goes into solving problems, building things that probably no one asked for, and learning something new along the way.
+I do competitive programming on [CodeForces](https://codeforces.com/profile/yanayem), and when I’m not doing that, I build full-stack web apps and fun front-end experiments.
 
-I spend time doing competitive programming on [CodeForces](https://codeforces.com/profile/yanayem), and when I’m not doing that, I’m building web projects.  
-You can check out my projects here:
-- 🌐 [Vercel Projects](https://vercel.com/yeasin-arafats-projects-e284b126)
-- 💻 [Netlify Projects](https://app.netlify.com/teams/arafatnayem01/projects)
-- 🎨 [Creative stuff on CodePen](https://codepen.io/Yeasin-Arafat-Nayem-Bhuiyan)
+- 🧠 Self-taught and still learning every single day  
+- 🛠️ Passionate about building things that actually *work*  
+- 🌊 Love mixing logic with creativity  
+- 🧩 Python is my new comfort zone (along with C++)
 
-A few things about me:
-- 🧠 Self-taught and always learning  
-- 🛠️ Love building tools that *actually* solve problems  
-- 🌊 I enjoy blending logic and creativity  
-- 🧩 My comfort zone: **Python + C++**
+Check out my work:  
+- 🌐 [Vercel Projects](https://vercel.com/yeasin-arafats-projects-e284b126)  
+- 💻 [Netlify Projects](https://app.netlify.com/teams/arafatnayem01/projects)  
+- 🎨 [CodePen Experiments](https://codepen.io/Yeasin-Arafat-Nayem-Bhuiyan)
 
 ---
 
-### 🧰 What I Use
+### 🧰 Tech Toolbox
 
 | Languages | Tools | Concepts |
 |-----------|--------|-----------|
 | 🐍 Python | 🗃️ SQL | 🔄 Algorithms |
 | 💻 C++ | 🧠 AI | 🔐 Debugging |
 | ⚛️ ReactJS | 🧪 Experiments | 🧱 Database Design |
+
+---
+
+### 💪 Skill Status
+
+<table>
+  <tr>
+    <td>Python 🐍</td>
+    <td><img src="https://progress-bar.dev/90/?title=Advanced" /></td>
+  </tr>
+  <tr>
+    <td>C++ 💻</td>
+    <td><img src="https://progress-bar.dev/85/?title=Strong" /></td>
+  </tr>
+  <tr>
+    <td>ReactJS ⚛️</td>
+    <td><img src="https://progress-bar.dev/70/?title=Intermediate" /></td>
+  </tr>
+  <tr>
+    <td>SQL 🗃️</td>
+    <td><img src="https://progress-bar.dev/75/?title=Good" /></td>
+  </tr>
+  <tr>
+    <td>HTML & CSS 🎨</td>
+    <td><img src="https://progress-bar.dev/95/?title=Creative" /></td>
+  </tr>
+  <tr>
+    <td>AI / ML 🤖</td>
+    <td><img src="https://progress-bar.dev/60/?title=Learning" /></td>
+  </tr>
+</table>
 
 ---
 
@@ -60,7 +89,7 @@ A few things about me:
 🗣️ **Voice Task Manager** – talk to your PC and get things done  
 🌐 **React Dashboards** – real-time data dashboards  
 🔐 **Voice Authentication** – secure, speech-based logins  
-🤖 **PikuCore** – a Bengali-speaking personal AI that understands emotion and context  
+🤖 **PikuCore** – a Bengali-speaking AI that understands emotion and context  
 🌱 **Smart Soil Monitoring System** – Python-powered analytics for coastal farmers  
 🚜 **iFarmer** – combining AI, satellite data, and Bangla voice tech for smart farming
 
@@ -75,7 +104,7 @@ A few things about me:
 
 ### ✨ Fun Fact
 
-> Sometimes my code works on the first try… and that’s how I know I missed something 😅
+> Sometimes my code works on the first try… and that’s how I know I forgot something 😅
 
 ---
 
