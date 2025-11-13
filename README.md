@@ -35,37 +35,6 @@ Check out my work:
 
 ---
 
-### 💪 Skill Status
-
-<table>
-  <tr>
-    <td>Python 🐍</td>
-    <td><img src="https://progress-bar.dev/90/?title=Advanced" /></td>
-  </tr>
-  <tr>
-    <td>C++ 💻</td>
-    <td><img src="https://progress-bar.dev/85/?title=Strong" /></td>
-  </tr>
-  <tr>
-    <td>ReactJS ⚛️</td>
-    <td><img src="https://progress-bar.dev/70/?title=Intermediate" /></td>
-  </tr>
-  <tr>
-    <td>SQL 🗃️</td>
-    <td><img src="https://progress-bar.dev/75/?title=Good" /></td>
-  </tr>
-  <tr>
-    <td>HTML & CSS 🎨</td>
-    <td><img src="https://progress-bar.dev/95/?title=Creative" /></td>
-  </tr>
-  <tr>
-    <td>AI / ML 🤖</td>
-    <td><img src="https://progress-bar.dev/60/?title=Learning" /></td>
-  </tr>
-</table>
-
----
-
 ### 📊 Language Usage (from GitHub)
 
 <p align="center">
@@ -121,13 +90,6 @@ Check out my work:
 
 ---
 
-### 🐍 My Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/yanayem/yanayem/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
