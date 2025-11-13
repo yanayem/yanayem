@@ -1,62 +1,81 @@
-<h1 align="center">Hey there, I'm Yeasin 👨‍💻</h1>
+<h1 align="center">Hey, I'm Yeasin 👨‍💻</h1>
 <p align="center">
-  🚀 Dreaming in code | 🧪 Experimenting with reality | 🤖 Building the future
+  🚀 Just a guy who loves building cool stuff with code.
 </p>
 
 ---
 
 ### 🧬 About Me
 
-I'm not just a developer—I’m a digital explorer. Whether it's crafting clever SQL queries, reverse-engineering integers in C++, or imagining AI-powered social platforms, I thrive at the intersection of logic and imagination.
-.I'm practicing competitive programming regularly on [CodeForces](https://codeforces.com/profile/yanayem) , and here my web-development project [Web-Project](https://vercel.com/yeasin-arafats-projects-e284b126) And [Web-Project-2](https://app.netlify.com/teams/arafatnayem01/projects), and some html & css creative work [codepen](https://codepen.io/Yeasin-Arafat-Nayem-Bhuiyan)
+Hey there! I’m Yeasin.  
+I don’t really like calling myself just a "developer" — I’m more like someone who gets curious about how things work and ends up turning that curiosity into code.
 
-- 🧠 Self-taught and ever-curious
-- 🛠️ Building tools that think, react, and evolve
-- 🌊 Conducting real-world experiments 
-- 🧩 Solving puzzles with Python, C++.
+I started coding out of curiosity, and now I can’t imagine a day without it.  
+Most of my time goes into solving problems, building things that probably no one asked for, and learning something new along the way.
+
+I spend time doing competitive programming on [CodeForces](https://codeforces.com/profile/yanayem), and when I’m not doing that, I’m building web projects.  
+You can check out my projects here:
+- 🌐 [Vercel Projects](https://vercel.com/yeasin-arafats-projects-e284b126)
+- 💻 [Netlify Projects](https://app.netlify.com/teams/arafatnayem01/projects)
+- 🎨 [Creative stuff on CodePen](https://codepen.io/Yeasin-Arafat-Nayem-Bhuiyan)
+
+A few things about me:
+- 🧠 Self-taught and always learning  
+- 🛠️ Love building tools that *actually* solve problems  
+- 🌊 I enjoy blending logic and creativity  
+- 🧩 My comfort zone: **Python + C++**
 
 ---
 
-### 🧰 Tech Toolbox
+### 🧰 What I Use
 
-| Language     | Tools & Tech   | Concepts       |
-|-------------|-----------------|----------------|
-| 🐍 Python  | 🗃️ SQL | 🔄 Core Algorithm|
-| 💻 C++     | 🧠 AI | 🔐Debugging |
-| 📊 ReactJS | 🧪 Experiments | 🧱 Database Design |
+| Languages | Tools | Concepts |
+|-----------|--------|-----------|
+| 🐍 Python | 🗃️ SQL | 🔄 Algorithms |
+| 💻 C++ | 🧠 AI | 🔐 Debugging |
+| ⚛️ ReactJS | 🧪 Experiments | 🧱 Database Design |
 
 ---
 
-🚧 Future Plan Projects
+### ⚙️ My GitHub Stats
 
-🧠 NeuroNet – A futuristic AI network that learns from human interaction
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yanayem&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
 
-💍 ShaadiSmart – An intelligent matchmaking system with real-time compatibility scoring
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanayem&theme=tokyonight" alt="GitHub streak" />
+</p>
 
-🗣️ Voice-controlled task managers using Python and speech recognition
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanayem&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-🌐 Real-time data dashboards in React powered by database queries
+---
 
-🔐 Authentication workflows tied to user voice input
+### 🚧 Projects I Want to Build
 
-🤖 PikuCore – A lifelong personal AI assistant rooted in Bengali expression and empathy, featuring adaptive persona, voice-first interaction, journaling with emotion analysis, cultural intelligence, and a modular plugin ecosystem.
-
-🌱 Smart Soil Monitoring System – A Python-based decision-support tool for coastal farmers in Bangladesh that simulates/collects soil data (EC, pH, moisture, temperature), recommends crops & irrigation schedules, computes soil health index, and tracks salinity trends with visualizations.
-
-🚜 iFarmer – Transforming agriculture in Bangladesh with satellite-based farm monitoring, fertilizer & input optimization, farmer credit scoring, price forecasting, and Bangla voice-enabled AgriGPT powered by LLMs, making smart farming accessible to every farmer.
+🧠 **NeuroNet** – an AI that learns from human behavior  
+💍 **ShaadiSmart** – a smarter matchmaking system  
+🗣️ **Voice Task Manager** – talk to your PC and get things done  
+🌐 **React Dashboards** – real-time data dashboards  
+🔐 **Voice Authentication** – secure, speech-based logins  
+🤖 **PikuCore** – a Bengali-speaking personal AI that understands emotion and context  
+🌱 **Smart Soil Monitoring System** – Python-powered analytics for coastal farmers  
+🚜 **iFarmer** – combining AI, satellite data, and Bangla voice tech for smart farming
 
 ---
 
 ### 🌐 Connect with Me
 
-- 📫 Email: `arafatnayem01@gmail.com`
-- 🧠 GitHub: [@yanayem](https://github.com/yanayem)
+- 📫 **Email:** `arafatnayem01@gmail.com`  
+- 🧠 **GitHub:** [@yanayem](https://github.com/yanayem)
 
 ---
 
 ### ✨ Fun Fact
 
-> “I don’t just write code—I write experiments, ideas, and sometimes, a little bit of chaos.”
+> Sometimes my code works on the first try… and that’s how I know I missed something 😅
 
 ---
 
