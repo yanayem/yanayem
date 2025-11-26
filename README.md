@@ -85,7 +85,7 @@ Check out my work:
 🌐 **React Dashboards** – real-time data dashboards  
 🔐 **Voice Authentication** – secure, speech-based logins  
 🤖 **PikuCore** – a Bengali-speaking AI that understands emotion and context  
-🌱 [**Smart Soil Monitoring System**[(https://soil-monitoring.onrender.com/) – Python-powered analytics for coastal farmers  
+🌱 [**Smart Soil Monitoring System**](https://soil-monitoring.onrender.com/) – Python-powered analytics for coastal farmers  
 🚜 **iFarmer** – combining AI, satellite data, and Bangla voice tech for smart farming
 
 ---
