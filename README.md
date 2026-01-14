@@ -86,6 +86,28 @@ Check out my creations:
   <img src="https://skillicons.dev/icons?i=python,cpp,react,html,css,js,mysql,git,linux" />
 </p>
 
+# 🚧 Projects I Have Built  
+
+- 🌱 **Smart Soil Monitoring System** – Analytics platform for coastal farmers  
+  🔗 [soil-monitoring.onrender.com](https://soil-monitoring.onrender.com)  
+
+- 👨‍💼 **Employee Management System** – Streamlined employee records and workflows  
+  🔗 [employee-management-system-employee-and.onrender.com](https://employee-management-system-employee-and.onrender.com)  
+
+- 🏥 **Hospital Management System** – Appointment scheduling and patient tracking  
+  🔗 [hospital-appointment-and-patient.onrender.com](https://hospital-appointment-and-patient.onrender.com)  
+
+- 💬 **Real-Time Chat App** – Instant messaging with live updates  
+  🔗 *Coming soon*  
+
+- 💍 **Wedding Management System** – Event planning and guest coordination  
+  🔗 *Coming soon*  
+
+- 🛒 **TechEcom Web Application** – Modern e‑commerce platform for selling technology items  
+  🔗 *Coming soon*   
+
+- 🚜 **iFarmer** – AI + satellite data for precision farming  
+  🔗 [soilmonitor.onrender.com](https://soilmonitor.onrender.com)  
 ---
 
 ## 🚧 Projects I Want to Build
@@ -96,8 +118,6 @@ Check out my creations:
 - 🌐 **React Dashboards** – real-time interactive dashboards  
 - 🔐 **Voice Authentication** – speech-based secure login  
 - 🤖 **PikuCore** – a Bengali-speaking emotional AI  
-- 🌱 **Smart Soil Monitoring System** – analytics for coastal farmers  
-- 🚜 **iFarmer** – AI + satellite data for modern farming  
 
 ---
 
