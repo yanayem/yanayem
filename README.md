@@ -9,7 +9,8 @@
 
 Hey! I’m **Yeasin Arafat Nayem** — a self-taught developer who started coding just to understand how computers *think* and eventually turned it into a daily obsession.
 
-##[MY Portfolio](https://nayemportfolio.vercel.app/)
+**[MY Portfolio](https://nayemportfolio.vercel.app/)**
+
 
 I love:
 - 🧠 Competitive Programming (CodeForces)
