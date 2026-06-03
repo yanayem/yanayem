@@ -364,9 +364,10 @@ I'm always open to:
 <br/>
 
 <img src="https://img.shields.io/badge/-%E2%9A%97%EF%B8%8F%20WHERE%20IDEAS%20COMPILE%20INTO%20REALITY%20%E2%9A%97%EF%B8%8F-000000?style=for-the-badge&labelColor=000000&color=006A67" />
-
 <br/><br/>
-
+<!--
+<br/><br/>
+''''''
 ```
   ██╗   ██╗███████╗ █████╗ ███████╗██╗███╗   ██╗    ██╗
   ╚██╗ ██╔╝██╔════╝██╔══██╗██╔════╝██║████╗  ██║   ███║
@@ -376,7 +377,7 @@ I'm always open to:
      ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝   ╚═╝
   ─────────── [ ARAFAT NAYEM'S INNOVATION FORGE ] ───────────
 ```
-
+-->
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1800&color=006A67&background=000000&center=true&vCenter=true&width=640&lines=~%2Flab+%24+initializing+systems...;~%2Flab+%24+loading+passion+for+code...;~%2Flab+%24+compiling+tomorrow's+solutions...;~%2Flab+%24+deploying+ideas+to+production...;~%2Flab+%24+git+commit+-m+'always+improving';~%2Flab+%24+./run+--mode=full-stack+--target=world" alt="Terminal Typing" />
