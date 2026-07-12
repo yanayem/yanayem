@@ -149,11 +149,8 @@
 ---
 
 ## 🏗️ Live Projects
-
 ### 🟢 Currently Deployed
-
 ---
-
 #### 🌱 Smart Soil Monitoring System
 > *Analytics Platform for Agricultural Intelligence*
 
@@ -162,7 +159,6 @@ Real-time soil data monitoring built for coastal farming communities. Data-drive
 **🔗** [soil-monitoring.onrender.com](https://soil-monitoring.onrender.com)
 
 ---
-
 #### 👨‍💼 Employee Management System
 > *Enterprise Workforce Management Suite*
 
@@ -171,7 +167,6 @@ Streamlined employee records, attendance tracking, and performance management. S
 **🔗** [employee-management-system-employee-and.onrender.com](https://employee-management-system-employee-and.onrender.com)
 
 ---
-
 #### 🏥 Hospital Management System
 > *Integrated Healthcare Operations Platform*
 
@@ -180,7 +175,6 @@ Appointment scheduling with real-time availability, patient tracking, and medica
 **🔗** [hospital-appointment-and-patient.onrender.com](https://hospital-appointment-and-patient.onrender.com)
 
 ---
-
 #### 🚜 iFarmer — Precision Agriculture AI
 > *Intelligent Farming Through Technology*
 
@@ -189,15 +183,30 @@ AI-powered crop recommendations using satellite data. Real-time monitoring to ma
 **🔗** [soilmonitor.onrender.com](https://soilmonitor.onrender.com)
 
 ---
+#### 💍 WeddingFlow
+> *Wedding Management & Event Coordination Platform*
+
+Comprehensive wedding planning suite with vendor management, guest coordination, budget tracking, and timeline management for seamless celebrations.
+
+**🔗** [weddingflow.vercel.app](https://weddingflow.vercel.app/)
+
+---
+#### 🔬 ResearchMate
+> *Academic Collaboration & Research Management*
+
+Collaborative research platform for academics and scholars to share findings, manage projects, and connect with peers in their field.
+
+**🔗** [researchmate01.vercel.app](https://researchmate01.vercel.app/login)
+
+---
 
 ### 🔜 Coming Soon
-
 | Project | Type | Status |
 |:---|:---|:---:|
 | 💬 **Real-Time Chat Application** | Socket-based messaging infrastructure | `In Progress` |
-| 💍 **Wedding Management System** | Event coordination & guest experience | `In Progress` |
+| 🎓 **Scholarship Connect** | Scholarship discovery & application portal | `In Progress` |
+| 🎨 **Skillsyne** | Skills marketplace & learning platform | `In Progress` |
 | 🛒 **TechEcom Web Application** | E-commerce platform for tech retail | `Planned` |
-
 ---
 
 ## 🚀 Vision for Future Innovation
@@ -313,44 +322,6 @@ I'm always open to:
 
 ---
 
-<!--
-  ============================================================
-  🧬 CONWAY'S GAME OF LIFE — COMMENTED OUT
-  Activate করতে: GitHub Action setup করো, তারপর comment তুলে দাও
-  Workflow file: .github/workflows/game-of-life.yml
-
-  ## 🧬 Conway's Game of Life
-
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/yanayem/yanayem/output/github-contribution-grid-game-of-life-dark.svg" width="100%" alt="Game of Life on my contributions" />
-  </div>
-
-  > ⚙️ Setup: Create `.github/workflows/game-of-life.yml` in your profile repo.
-
-  name: Conway's Game of Life
-  on:
-    schedule:
-      - cron: "0 */12 * * *"
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: yuichielectric/github-life@v1.0.4
-          with:
-            user: yanayem
-            github_token: ${{ secrets.GITHUB_TOKEN }}
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ============================================================
--->
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=4&section=header" width="100%" />
@@ -365,20 +336,7 @@ I'm always open to:
 
 <img src="https://img.shields.io/badge/-%E2%9A%97%EF%B8%8F%20WHERE%20IDEAS%20COMPILE%20INTO%20REALITY%20%E2%9A%97%EF%B8%8F-000000?style=for-the-badge&labelColor=000000&color=006A67" />
 <br/><br/>
-<!--
-<br/><br/>
-''''''
-```
-  ██╗   ██╗███████╗ █████╗ ███████╗██╗███╗   ██╗    ██╗
-  ╚██╗ ██╔╝██╔════╝██╔══██╗██╔════╝██║████╗  ██║   ███║
-   ╚████╔╝ █████╗  ███████║███████╗██║██╔██╗ ██║   ╚██║
-    ╚██╔╝  ██╔══╝  ██╔══██║╚════██║██║██║╚██╗██║    ██║
-     ██║   ███████╗██║  ██║███████║██║██║ ╚████║    ██║
-     ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝   ╚═╝
-  ─────────── [ ARAFAT NAYEM'S INNOVATION FORGE ] ───────────
-```
--->
-<br/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1800&color=006A67&background=000000&center=true&vCenter=true&width=640&lines=~%2Flab+%24+initializing+systems...;~%2Flab+%24+loading+passion+for+code...;~%2Flab+%24+compiling+tomorrow's+solutions...;~%2Flab+%24+deploying+ideas+to+production...;~%2Flab+%24+git+commit+-m+'always+improving';~%2Flab+%24+./run+--mode=full-stack+--target=world" alt="Terminal Typing" />
 
