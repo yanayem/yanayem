@@ -279,17 +279,17 @@ Platform connecting students with academic scholarships, simplified application 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yanayem&theme=tokyonight&hide_border=true&border_radius=8&background=0D1117&ring=006A67&fire=7C5CFF&currStreakLabel=006A67" width="68%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=yanayem&theme=tokyonight&hide_border=true&border_radius=8&background=0D1117&ring=006A67&fire=7C5CFF&currStreakLabel=006A67" width="68%" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yanayem&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=006A67&line=7C5CFF&point=006A67" width="96%" alt="Contribution Graph" />
+<img src="https://github-activity-graph.vercel.app/graph?username=yanayem&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=006A67&line=7C5CFF&point=006A67" width="96%" alt="Contribution Graph" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yanayem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=006A67&icon_color=7C5CFF&text_color=C9D1D9" width="47%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=yanayem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=006A67&icon_color=7C5CFF&text_color=C9D1D9" width="47%" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanayem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=006A67&text_color=C9D1D9" width="47%" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=yanayem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=006A67&text_color=C9D1D9" width="47%" alt="Top Languages" />
 
 </div>
 
