@@ -199,12 +199,20 @@ Collaborative research platform for academics and scholars to share findings, ma
 **🔗** [researchmate01.vercel.app](https://researchmate01.vercel.app/login)
 
 ---
+#### 🎓 Scholarship Connect
+> *Scholarship Discovery & Application Portal*
+
+Platform connecting students with academic scholarships, simplified application tracking, and personalized funding opportunities.
+
+**🌐 Web View:** [scholarconnectbd.vercel.app](https://scholarconnectbd.vercel.app/)  
+**📱 Mobile View:** [scholarshipconnectbd.vercel.app](https://scholarshipconnectbd.vercel.app/)
+
+---
 
 ### 🔜 Coming Soon
 | Project | Type | Status |
 |:---|:---|:---:|
 | 💬 **Real-Time Chat Application** | Socket-based messaging infrastructure | `In Progress` |
-| 🎓 **Scholarship Connect** | Scholarship discovery & application portal | `In Progress` |
 | 🎨 **Skillsyne** | Skills marketplace & learning platform | `In Progress` |
 | 🛒 **TechEcom Web Application** | E-commerce platform for tech retail | `Planned` |
 ---
